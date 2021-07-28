@@ -61,7 +61,14 @@ class _TodayState extends State<Today> {
               // alignment: Alignment.topLeft,
               width: MediaQuery.of(context).size.width * 0.1,
               //color: Colors.black,
-              child: Icon(Icons.verified_user),
+              child: Icon(
+                Icons.supervised_user_circle,
+                color: Colors.yellow,
+              ),
+              // child: CircleAvatar(
+              //   radius: 15,
+              //   backgroundColor: Colors.yellow,
+              // ),
             ),
           ),
 //second row data
