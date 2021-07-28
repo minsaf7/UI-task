@@ -172,7 +172,7 @@ List<CardData> getData() {
   cardData.title = "You'r doing well paying your off your loans";
   cardData.date = "09-06-2018";
   cardData.desc =
-      "Last month, you made 42 transactions less than \$5, spending a total of \$147. Want to cut down on frivilous spending?";
+      "Since this time last year,you've contributed \$5,678 towards your Sallie Mae students loan, Great Work";
   cardData.bgColor = Color(0xFF4fd2c2);
   cardData.btn = false;
   cardData.liked = true;
